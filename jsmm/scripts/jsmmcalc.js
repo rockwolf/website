@@ -49,7 +49,7 @@ function calcResults()
     // What you loose to tax and commission on buy
     varLooseBuy = (getTax / 100 * getMoneytouse) + getCommission;
     // Number of shares you can buy
-    varShares = getMoneytouse / getPrice - varLooseBuy;
+    varShares = (getMoneytouse - varLooseBuy) / getPrice ;
     // When shares are negative, make them 0
     if (varShares < 0)
             varShares = 0
