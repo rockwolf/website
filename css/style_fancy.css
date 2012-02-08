@@ -5,7 +5,8 @@ body
     padding:0;
     border:0;			/* This removes the border around the viewport in old versions of IE */
     width:100%;
-    background:#ffffee url('../img/samurai-sword.png') no-repeat right 20px;
+    background:#ffffee url('../img/samurai-sword.png') no-repeat right bottom;
+    background-attachment: fixed;
     margin-right: 200px;
     color: #111;
 }
