@@ -5,7 +5,7 @@ body
     padding:0;
     border:0;			/* This removes the border around the viewport in old versions of IE */
     width:100%;
-    background:#ffffee;
+    background:#ffffee url('../img/samurai-sword.png') no-repeat right top;
     margin-right: 200px;
     color: #111;
     min-width:600px;    	/* Minimum width of layout - remove line if not required */
