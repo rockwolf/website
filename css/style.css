@@ -8,8 +8,6 @@ body
     background:#ffffee;
     margin-right: 200px;
     color: #111;
-    min-width:600px;    	/* Minimum width of layout - remove line if not required */
-                    /* The min-width property does not work in old versions of Internet Explorer */
 }
 p 
 {
@@ -23,7 +21,7 @@ p
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: left;
-    border-bottom:1px dotted #111;
+    border-bottom:1px dotted #911;
     color: inherit;
     background-color: transparent;
 }
@@ -32,12 +30,13 @@ p
 #footer 
 {
     clear:both;
-    float:left;
-    width:100%;
-    border-top:1px dotted #111;
+    position: absolute;
+    text-align: right;
+    top: 5px;
+    right: 5px;
     font-size: 8pt;
     font-family: Liberation Sans Mono, verdana;
-    color: inherit;
+    color: #999;
     background-color: transparent;
 }
 #footer p 
