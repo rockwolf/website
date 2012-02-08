@@ -52,6 +52,14 @@ a:hover
 {
     text-decoration: underline;
 }
+
+.hidden, .hidden:hover, .hidden:active, .hidden:visited
+{
+    color: transparent;
+    background-color: transparent;
+    text-decoration: none;
+}
+
 .imglink, .imglink:active, .imglink:visited
 {
     background-color: inherit;
