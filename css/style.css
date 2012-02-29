@@ -135,3 +135,13 @@ ul
     color: inherit;
     background-color: transparent;
 }
+
+hr
+{
+    border: 1px solid #911;
+}
+
+.separator
+{
+    border: 1px dashed #999;
+}
