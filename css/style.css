@@ -120,6 +120,14 @@ a:hover
     color: inherit;
     background-color: transparent;
 }
+.sold
+{
+    font-size: 8pt;
+    color: inherit;
+    background-color: transparent;
+    text-decoration: line-through;
+}
+
 ul
 {
     list-style-type: none;
