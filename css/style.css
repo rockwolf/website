@@ -5,9 +5,9 @@ body
     padding:0;
     border:0;			/* This removes the border around the viewport in old versions of IE */
     width:100%;
-    background:#ffffee;
+    background:#fdf6e3;
     margin-right: 200px;
-    color: #111;
+    color: #657b83;
 }
 p 
 {
@@ -21,7 +21,7 @@ p
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: left;
-    border-bottom:1px dotted #911;
+    border-bottom:1px dotted #cb4b16;
     color: inherit;
     background-color: transparent;
 }
@@ -36,7 +36,7 @@ p
     right: 5px;
     font-size: 8pt;
     font-family: Liberation Sans Mono, verdana;
-    color: #999;
+    color: #93a1a1;
     background-color: transparent;
 }
 #footer p 
@@ -51,7 +51,7 @@ p
 a, a:active, a:visited
 {
     background-color: transparent;
-    color: #111;
+    color: #657b83;
     text-decoration: none;
 }
 a:hover
@@ -82,7 +82,7 @@ a:hover
 .imglink, .imglink:active, .imglink:visited
 {
     background-color: transparent;
-    color: #125;
+    color: #cb4b16;
     text-decoration: none;
     padding:0;
     border: 0;
@@ -146,10 +146,10 @@ ul
 
 hr
 {
-    border: 1px solid #911;
+    border: 1px solid #cb4b16;
 }
 
 .separator
 {
-    border: 1px dashed #999;
+    border: 1px dashed #cb4b16;
 }
