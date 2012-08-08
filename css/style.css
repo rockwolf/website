@@ -51,13 +51,13 @@ p
 a, a:active, a:visited
 {
     background-color: transparent;
-    color: #657b83;
+    color: #268bd2;
     text-decoration: none;
 }
 a:hover
 {
     text-decoration: underline;
-    color: inherit;
+    color: #268bd2;
     background-color: transparent;
 }
 
