@@ -1,0 +1,165 @@
+/* General styles */
+body 
+{
+    margin:0;
+    padding:0;
+    border:0;			/* This removes the border around the viewport in old versions of IE */
+    width:100%;
+    background:#002b36;
+    margin-right: 200px;
+    color: #839496;
+    font-family: Verdana;
+}
+p 
+{
+    margin:.4em 0 .8em 0;
+    padding:0;
+    font-size: 1em;
+    color: #657b83;
+}
+
+#content #subtitle
+{
+    border-bottom:1px dotted #839496;
+    color: #93a1a1;
+}
+
+/* Header */
+#header
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    border-bottom:1px dotted #2aa198;
+    color: inherit;
+    background-color: transparent;
+}
+
+/* Footer */
+#footer 
+{
+    clear:both;
+    position: absolute;
+    text-align: right;
+    top: 5px;
+    right: 5px;
+    font-size: 8pt;
+    font-family: Liberation Sans Mono, verdana;
+    color: #2aa198;
+    background-color: transparent;
+}
+#footer p 
+{
+    padding:10px;
+    margin:0;
+    color: inherit;
+    background-color: transparent;
+}
+
+/* Elements */
+a, a:active, a:visited
+{
+    background-color: transparent;
+    /*color: #839496;*/
+    color: #268bd2;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+    color: #268bd2;
+    background-color: transparent;
+}
+
+.semihidden, .semihidden:hover, .semihidden:active, .semihidden:visited
+{
+    color: transparent;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.hidden, .hidden:hover, .hidden:active, .hidden:visited
+{
+    visibility: hidden;
+}
+
+.shadow
+{
+    color: #eee;
+    background-color: transparent;
+}
+
+.imglink, .imglink:active, .imglink:visited
+{
+    background-color: transparent;
+    color: #93a1a1;
+    text-decoration: none;
+    padding:0;
+    border: 0;
+}
+.imglink:hover
+{
+    padding:0;
+    border: 0;
+    color: inherit;
+    background-color: transparent;
+}
+.bold
+{
+    font-weight: bold;
+}
+.rightalign
+{
+    right: 10px;
+    text-align: right;
+}
+
+/* Content */
+#content
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 5%;
+    text-align: left;
+    color: inherit;
+    background-color: transparent;
+}
+.small
+{
+    font-size: 8pt;
+    color: inherit;
+    background-color: transparent;
+}
+.sold
+{
+    font-size: 8pt;
+    color: inherit;
+    background-color: transparent;
+    text-decoration: line-through;
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    background-color: transparent;
+}
+.sub
+{
+    text-decoration: underline;
+    font-weight: bold;
+    color: inherit;
+    background-color: transparent;
+}
+
+hr
+{
+    border: 1px dashed #839496;
+}
+
+.separator
+{
+    border: 1px dashed #839496;
+}
