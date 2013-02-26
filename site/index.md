@@ -8,13 +8,16 @@
         <a href="lisa.html" title="Lisa">Lisa</a>
     </li>
     <li>
-        <a href="cmd_linux.html" title="Linux commands">Linux commands</a>
+        <a href="cmd_linux.html" title="Linux">Linux</a>
     </li>
     <li>
-        <a href="cmd_freebsd.html" title="Freebsd commands">Freebsd commands</a>
+        <a href="cmd_freebsd.html" title="Freebsd">Freebsd</a>
     </li>
     <li>
-        <a href="jsmm/index.html" title="JS Money Management Applications">Jsmm</a>
+        <a href="jsmm/index.html" title="JS Money Management Applications" target="_new">Jsmm</a>
+    </li>
+    <li>
+        <a href="links.html" title="Links">Links</a>
     </li>
 </ul>
 
