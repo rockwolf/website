@@ -20,3 +20,6 @@
 
 - <a href="http://www.akban.org/wiki/index.php/Portal:Traditional_weapons" target="new">Many kata can be found here</a>
 - <a href="http://www.youtube.com/watch?v=cOztjCIVblQ" target="new">Bo kata (Sugino)</a><span class="small"> (youtube link)</span>
+
+## Counting in Japanese
+- <a href="http://www.tofugu.com/wp-content/uploads/2008/11/japanesecounters.pdf" target="new">Counting in Japanese</a><span class="small"> (external link from www.tofugu.com)</span>
