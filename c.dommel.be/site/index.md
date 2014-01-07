@@ -1,5 +1,4 @@
 
-
 <ul id="menu_sub">
     <li>
         <a href="aikibudo.html" title="Aikibudo">Aikibudo</a>
@@ -8,7 +7,10 @@
         <a href="lisa.html" title="Lisa">Lisa</a>
     </li>
     <li>
-        <a href="cmd_linux.html" title="Linux">Linux</a>
+        <a href="accounting.html" title="Accounting">Accounting</a>
+    </li>
+    <li>
+        <a href="cmd_linux.html" title="Linux commands">Linux commands</a>
     </li>
     <li>
         <a href="cmd_freebsd.html" title="Freebsd">Freebsd</a>
