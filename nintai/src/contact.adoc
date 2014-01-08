@@ -1,0 +1,6 @@
+= Contact
+
+|===
+|Contact person|e-mail|GSM
+|Andy Nagels|thereisanewway<at>gmail<dot>com|...
+|===
