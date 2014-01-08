@@ -1,23 +1,24 @@
-## Command line applications
 
--   todo.sh
--   herrie
--   htop
--   lftp
--   mutt
--   rsstail
--   turbotail
--   vim
--   weechat/irssi + bitlbee
--   wyrd
+= Command line applications
 
-## Commands
+* todo.sh
+* herrie
+* htop
+* lftp
+* mutt
+* rsstail
+* turbotail
+* vim
+* weechat/irssi + bitlbee
+* wyrd
 
-### Filesystem
+= Commands
 
--   dd if=/dev/zero of=/dev/sda count=1 bs=512
+== Filesystem
 
-### Programming/processing
+* dd if=/dev/zero of=/dev/sda count=1 bs=512
 
-- markdown to pdf: pandox --toc -o <output>.pdf <source>.md
+== Programming/processing
+
+* markdown to pdf: pandox --toc -o <output>.pdf <source>.md
 
