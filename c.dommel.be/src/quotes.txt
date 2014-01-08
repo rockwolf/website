@@ -3,5 +3,6 @@
 [quote]
 ____
 To be successful in life, follow these 2 rules:
-Rule \#1: Don't tell everything you know to everybody.
+
+Rule #1: Don't tell everything you know to everybody.
 ____

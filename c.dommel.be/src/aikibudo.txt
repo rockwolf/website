@@ -1,5 +1,5 @@
-
-= Aikibudo - General
+= Aikibudo
+== Aikibudo - General
 
 * link:https://github.com/rockwolf/aikibudo/blob/master/terminology.pdf?raw=true[Aikibudo terminology (pdf)]
 ++++
@@ -16,18 +16,18 @@
 <span class="small" >Last updated 2011-03-04</span></li>
 ++++
 
-= Aikibudo - Kata
+== Aikibudo - Kata
 
 * link:img/kata_tsuki_uchi.jpg[Tsuki uchi no kata]
 * link:img/kata_happo_ken.jpg[Happo ken kata]
 
-= Tenshin Shouden Katori Shintou Ryuu - General
+== Tenshin Shouden Katori Shintou Ryuu - General
 
 * link:img/katana_parts.jpg[Katana parts]
 * link:img/naginata_parts.jpg[Naginata parts]
 * link:img/kamae_boken.png[Kamae boken]
 
-= Tenshin Shouden Katori Shintou Ryuu - Kata
+== Tenshin Shouden Katori Shintou Ryuu - Kata
 
 * link:http://www.akban.org/wiki/index.php/Portal:Traditional_weapons[Many kata can be found here]
 * link:http://www.youtube.com/watch?v=cOztjCIVblQ[Bo kata (Sugino)]
@@ -35,7 +35,7 @@
 <span class="small"> (youtube link)</span>
 ++++
 
-= Counting in Japanese
+== Counting in Japanese
 * link:http://www.tofugu.com/wp-content/uploads/2008/11/japanesecounters.pdf[Counting in Japanese]
 ++++
 <span class="small"> (external link from www.tofugu.com)</span>

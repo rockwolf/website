@@ -1,4 +1,3 @@
-
 = Personal calendar
 
 * link:today.txt[todays reminders]
