@@ -1,150 +1,87 @@
+/* Based on werc.cat-v.org, suckless.org and garbe.us */
+
+/* General */
 body {
-	background-color: #eee;
-	color: #111;
+	color: #aaa;
 	font-family: sans-serif;
-	padding: 0;
+	font-size: 80%;
 	margin: 0;
+	padding: 0
 }
 
-a {
-	color: #058;
+/* Header */
+.header { background-color: #ccc; border: 0; }
+.header a { border: 0; color: #111; text-decoration: none; }
+.midHeader img { border: 0; }
+
+.headerTitle { font-size: 1.6em; font-weight: bold; margin: 0 0 0 0.5em; padding: 0.5em; }
+.headerTitle a { border: 0; text-decoration: none; }
+
+.headerSubTitle { font-size: 0.6em; font-weight: normal; margin-left: 1em; }
+
+/* Side */
+#side-bar {
+	width: 100%;
+	clear: both;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	background-color: #ddd;
+}
+
+#side-bar ul {
+	margin: 0;
+	padding: 0.3em;
+	list-style-type: none;
+	list-style-image: none;
+	border: 0;
+}
+
+#side-bar li { display: inline; line-height: 1.6em; white-space: nowrap; }
+
+#side-bar ul li a {
+	margin: 0;
+	padding: 0.1em 1ex 0.1em 1ex;
+	color: #336699;
+	background-color: transparent;
 	text-decoration: none;
+	font-size: 1em;
+	border: 0;
 }
 
-a:hover {
-	background-color: #eee;
-}
-
-#menu {
-	clear: both;
-	overflow: hidden;
-	color: #069;
-	background-color: #17a;
-	padding: 0.7ex;
-	font-size: 94%;
-	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #069;
-}
-
-#menu a {
-	padding: 0.5ex 1ex 0.5ex 1ex;
-	color: #fff;
-}
-
-#menu a:hover {
-	background-color: #069;
-}
-
-#menu a.thisSite {
-	font-weight: bold;
-	font-style: italic;
-}
-
-#header {
-	clear: both;
-	color: #666;
-	text-shadow: 1px 1px #fff;
-	font-size: 1.7em;
-	padding: 0.7ex 0.7ex 0.7ex 0.7em;
-}
-
-#header a {
-	color: #666;
-}
-
-h1 {
-	margin: 1em 1ex 0.5ex 0;
-	font-size: 1.4em;
-}
-
-h2 {
-	margin: 1em 1ex 0.5ex 0;
-	font-size: 1.3em;
-}
-
-h3 {
-	margin: 1em 1ex 0.5ex 0;
-	font-size: 1.2em;
-}
-
-h4 {
-	margin: 1em 1ex 0.5ex 0;
-	font-size: 1.1em;
-}
-
-#headerSubtitle {
-	font-size: 0.75em;
-	font-style: italic;
-	margin-left: 1em;
-}
-
-#content {
-	clear: both;
-	margin: 0;
-	padding: 0;
-	background-color: #fff;
-	overflow: hidden;
-}
-
-#nav {
-	background-color: #fff;
-	float: left;
-	margin: 0 1px 0 0;
-	padding: 1em 0;
-	border-right: 1px dotted #ccc;
-	width: 200px;
-}
-
-#nav ul {
-	margin: 0;
-	padding: 0;
-}
-
-#nav li {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-
-#nav li ul {
-  padding-left: 0.6em !important;
-}
-
-#nav li a {
-	display: block;
-	margin: 0;
-	padding: 0.8ex 2em 0.8ex 1em;
-}
-
-#nav li a.thisPage {
-	color: #333;
-	font-weight: bold;
-	font-style: italic;
-}
-
+#side-bar ul li a:hover { color: #111; text-decoration: none; }
+ 
+/* Main Copy */
 #main {
-	margin: 0 0 0 200px;
-	padding: 1.5em;
-	max-width: 50em;
+	max-width: 70em;
+	color: #111;
+	margin: 0 auto 0 2em;
+	padding: 1em 3em 2em 1em;
+	border: 0;
 }
 
-#footer-text {
+#main a { color: #336699; text-decoration: none; }
+#main a:hover { text-decoration: underline; }
+#main h1, #main-copy h2 { color: #666; }
+#main ul { list-style-type: square; }
+
+/* Footer */
+#footer {
+	background-color: #ddd;
+	color: #111;
+	font-size: 91%;
+	padding: 2em;
 	clear: both;
-	color: #666;
-	border-top: 1px solid #ccc;
-	font-size: 84%;
-	padding: 1em;
-	margin: 0 0 1.5em 0;
 }
 
-.left {
-	float: left;
-	margin: 0;
-	padding: 0;
-}
+#footer .left { text-align: left; float: left; clear: left; }
+#footer .right { text-align: right; }
+#footer a { color: #111; text-decoration: none; }
+#footer a:hover { text-decoration: underline; }
 
-.right {
-	float: right;
-	margin: 0;
-	padding: 0;
-}
+abbr, acronym { border-bottom: 1px dotted #333; cursor: help; }
+blockquote { border-left: 1px solid #333; font-style: italic; padding: 1em; }
+hr { border-width: 0 0 0.1em 0; border-color: #666; }
+
+code, pre { font-size: 1.1em }
+pre { margin-left: 2em; }

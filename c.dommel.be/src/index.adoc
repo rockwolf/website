@@ -1,12 +1,7 @@
-= c.dommel.be
-Andy Nagels <thereisanewway@gmail.com>
-:Author Initials: AN
-:toc:
-:icons:
-:numbered:
-:website: http://c.dommel.be
+= Quotes
 
-----
+[quote]
+____
 To be successful in life, follow these 2 rules:
 Rule \#1: Don't tell everything you know to everybody.
-----
+____
