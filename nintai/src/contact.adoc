@@ -1,5 +1,6 @@
 = Contact
 
+[width="80%", cols="^2,^2,^2", options="header"]
 |===
 |Contact person|e-mail|GSM
 |Andy Nagels|thereisanewway<at>gmail<dot>com|...
