@@ -1,1 +1,2 @@
-= Nintai
+
+image:img/floor.jpg["Trading floor", width="512"]
