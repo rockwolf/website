@@ -84,7 +84,7 @@ body {
 /* Main Copy */
 #main {
 	max-width: 70em;
-	color: #268bd2;
+	color: #657b83;
 	margin: 0 auto 0 2em;
 	padding: 1em 3em 2em 1em;
 	border: 0;
@@ -92,7 +92,7 @@ body {
 
 #main a { color: #268bd2; text-decoration: none; }
 #main a:hover { text-decoration: underline; }
-#main h1, #main-copy h2 { color: #002b36; }
+#main h1, #main-copy h2 { color: #586e75; }
 #main ul { list-style-type: square; }
 
 /* Footer */
