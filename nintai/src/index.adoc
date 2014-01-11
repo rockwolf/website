@@ -1,2 +1,53 @@
 
-image:img/floor.jpg["Trading floor", width="512"]
+++++
+<table>
+<tr>
+<td>
+++++
+
+.info
+image:img/chart.jpg["info", width="128", height="80", link="info.html"]
+
+++++
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+++++
+
+.reports
+image:img/reports.jpg["reports", width="128", height="80", link="reports.html"]
+
+++++
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+++++
+
+.contact
+image:img/e-mail.jpg["contact", width="128", height="80", link="contact.html"]
+
+++++
+</td>
+<td>
+&nbsp;
+</td>
+</tr>
+<tr>
+&nbsp;
+</tr>
+<tr>
+<td colspan="3">
+++++
+
+= News
+2014-01-11 &raquo;  Website operational.
+
+++++
+</td>
+</tr>
+</table>
+++++
