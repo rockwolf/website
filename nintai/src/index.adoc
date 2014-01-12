@@ -6,7 +6,7 @@
 ++++
 
 .info
-image:img/chart.jpg["info", width="128", height="80", link="info.html"]
+image:img/chart.jpg["info", width="200", height="133", link="info.html"]
 
 ++++
 </td>
@@ -17,7 +17,7 @@ image:img/chart.jpg["info", width="128", height="80", link="info.html"]
 ++++
 
 .reports
-image:img/reports.jpg["reports", width="128", height="80", link="reports.html"]
+image:img/reports.jpg["reports", width="200", height="133", link="reports.html"]
 
 ++++
 </td>
@@ -28,7 +28,7 @@ image:img/reports.jpg["reports", width="128", height="80", link="reports.html"]
 ++++
 
 .contact
-image:img/e-mail.jpg["contact", width="128", height="80", link="contact.html"]
+image:img/e-mail.jpg["contact", width="200", height="133", link="contact.html"]
 
 ++++
 </td>
@@ -41,6 +41,9 @@ image:img/e-mail.jpg["contact", width="128", height="80", link="contact.html"]
 </tr>
 <tr>
 <td colspan="3">
+<span class="small">Info image courtesy of Photokanok / FreeDigitalPhotos.net</span>,
+<span class="small">Reports image courtesy of Kittikun Atsawintarangkul / FreeDigitalPhotos.net</span>,
+<span class="small">Contact image courtesy of renjith krishnan / FreeDigitalPhotos.net</span>
 ++++
 
 = News

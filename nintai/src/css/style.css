@@ -116,6 +116,12 @@ hr { border-width: 0 0 0.1em 0; border-color: #002b36; }
 code, pre { font-size: 1.1em }
 pre { margin-left: 2em; }
 
+.small
+{
+    font-size: 8pt;
+    color: #93a1a1;
+    background-color: transparent;
+}
 /*#menu_sub li
 {
 	display: inline;

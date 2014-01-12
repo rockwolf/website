@@ -1,7 +1,72 @@
 = Contact
 
-[width="80%", cols="^2,^2,^2", options="header"]
-|===
-|Contact person|e-mail|GSM
-|Andy Nagels|thereisanewway<at>gmail<dot>com|...
-|===
+++++
+<table>
+<tr>
+<td>
+++++
+
+.location
+image:img/location.jpg["location", width="400", link="img/location.jpg"]
+
+++++
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+++++
+
+== Headquarters
+Astridlaan 28 +  
+2580 Putte +  
+Belgium +  
+
+++++
+</td>
+</tr>
+<tr>
+<td colspan="3">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+++++
+
+.contact info
+image:img/contact.jpg["contact", width="400"]
+
+++++
+<span class="small">Image courtesy of nokhoog_buchachon / FreeDigitalPhotos.net</span>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+
+++++
+== E-mail
+++++
+<span>
+<SCRIPT TYPE="text/javascript">
+  email_e=('the' + 'reisanewway@' + 'gm' + 'ail.com')	
+  document.write(
+    '<A href="mailto:' + email_e + '">' 
+    + email_e + '</a>'
+  )
+</SCRIPT>
+<NOSCRIPT>
+This e-mailaddress is secured against spambots. JavaScript needs to be activated to see it.
+</NOSCRIPT>
+</span>
+++++
+
+== Phone
+Mobile: +32 486 606 002
+
+++++
+</td>
+</tr>
+</table>
+++++
