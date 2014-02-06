@@ -1,5 +1,5 @@
 = Aikibudo
-== Aikibudo - General
+== General
 
 * link:https://github.com/rockwolf/aikibudo/blob/master/terminology.pdf?raw=true[Aikibudo terminology (pdf)]
 ++++
@@ -16,18 +16,19 @@
 <span class="small" >Last updated 2011-03-04</span></li>
 ++++
 
-== Aikibudo - Kata
+== Kata
 
 * link:img/kata_tsuki_uchi.jpg[Tsuki uchi no kata]
 * link:img/kata_happo_ken.jpg[Happo ken kata]
 
-== Tenshin Shouden Katori Shintou Ryuu - General
+= Tenshin Shouden Katori Shintou Ryuu
+== General
 
 * link:img/katana_parts.jpg[Katana parts]
 * link:img/naginata_parts.jpg[Naginata parts]
 * link:img/kamae_boken.png[Kamae boken]
 
-== Tenshin Shouden Katori Shintou Ryuu - Kata
+== Kata
 
 * link:http://www.akban.org/wiki/index.php/Portal:Traditional_weapons[Many kata can be found here]
 * link:http://www.youtube.com/watch?v=cOztjCIVblQ[Bo kata (Sugino)]
@@ -35,6 +36,18 @@
 <span class="small"> (youtube link)</span>
 ++++
 
+== Complete program
+=== Ken
+
+* link:http://youtu.be/NyIL2cP5I2g[1ste, itsutsu no tachi]
+* link:http://youtu.be/n9Rk8KJ-FoE[2de, ?]
+* link:http://youtu.be/3I452DBMRjM[3de, ?]
+* link:http://youtu.be/7RoPAPKdEGE[4de, hakka no tachi]
+
+=== Bo
+
+* link:
+= Other useful Japanese expressions
 == Counting in Japanese
 * link:http://www.tofugu.com/wp-content/uploads/2008/11/japanesecounters.pdf[Counting in Japanese]
 ++++
