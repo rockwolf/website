@@ -47,8 +47,7 @@
 === Bo
 
 * link:http://www.youtube.com/watch?v=ybYnntPiceE&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share[1ste, ?]
-* link:http://www.youtube.com/watch?v=E4vPk6Yjr9U&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=1
- [2de, ?]
+* link:http://www.youtube.com/watch?v=E4vPk6Yjr9U&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=1[2de, ?]
 * link:http://www.youtube.com/watch?v=eRUWegqWv_Q&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=2[3de, ?]
 * link:http://www.youtube.com/watch?v=Xe-_7b65uBU&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=3[4de, ?]
 * link:http://www.youtube.com/watch?v=mbE2rZkwmvs&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=4[5de, ?]
