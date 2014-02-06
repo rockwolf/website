@@ -46,7 +46,21 @@
 
 === Bo
 
-* link:
+* link:http://www.youtube.com/watch?v=ybYnntPiceE&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share[1ste, ?]
+* link:http://www.youtube.com/watch?v=E4vPk6Yjr9U&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=1
+ [2de, ?]
+* link:http://www.youtube.com/watch?v=eRUWegqWv_Q&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=2[3de, ?]
+* link:http://www.youtube.com/watch?v=Xe-_7b65uBU&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=3[4de, ?]
+* link:http://www.youtube.com/watch?v=mbE2rZkwmvs&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=4[5de, ?]
+* link:http://www.youtube.com/watch?v=um0vqFQUH90&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=5[6de, ?]
+
+=== Naginata
+
+* link:http://www.youtube.com/watch?v=3Rk3myELduo&feature=share&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf[1ste, ?]
+* link:http://www.youtube.com/watch?v=XZwRHtTeXow&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&feature=share&index=1[2de, ?]
+* link:http://www.youtube.com/watch?v=Es_EqWuSe8g&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&feature=share&index=2[3de, ?]
+* link:http://www.youtube.com/watch?v=NjnSTMoJ4UE&feature=share&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&index=3[4de, ?]
+
 = Other useful Japanese expressions
 == Counting in Japanese
 * link:http://www.tofugu.com/wp-content/uploads/2008/11/japanesecounters.pdf[Counting in Japanese]
