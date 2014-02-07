@@ -14,14 +14,14 @@ body
 /* Header */
 .header 
 { 
-    color: #657b83;
+    color: #002b36;
     background: #fdf6e3;
     border: 0; 
 }
 .header a
 {
     border: 0;
-    color: #268bd2;
+    color: #002b36;
     text-decoration: none;
 }
 .midHeader img { border: 0; }
@@ -34,21 +34,22 @@ body
 /* Side */
 #side-bar
 {
-    background-color: #268bd2;
+    background-color: #d75f00;
     color: #fdf6e3;
     width: 100%;
     clear: both;
     border: 0;
     margin: 0;
     padding: 0;
-    border-bottom: 1px dotted #2aa198;
+    border-top: 1px solid #002b36;
+    border-bottom: 1px solid #002b36;
 }
 
 #side-bar ul
 {
     list-style: none outside;
     padding: 0.0em;
-    height: 2.6em; /* Setting a height makes it act like a block */
+    height: 2.0em; /* Setting a height makes it act like a block */
     margin: 0;
     list-style-type: none;
     list-style-image: none;
@@ -69,31 +70,31 @@ body
 	float: left;
 	display: block;
 	min-width: 45px;
-	padding: 8px 15px 2px 15px;
+	padding: 8px 15px 0px 15px;
 	margin: 0;
-	//margin-right: -1px;
 	background: transparent;
 	color: #fdf6e3;
-	height: 2.6em; /* Setting a height makes it act like a block */
+	height: 1.6em; /* Setting a height makes it act like a block */
 }
 
 #side-bar ul li a:hover
 {
-    background-color: #fdf6e3;
-    color:#002b36;
+    background-color: #002b36;
+    color:#ffffd7;
     text-decoration: none;
 }
  
 /* Main Copy */
 #main
 {
-    background: #fdf6e3 url("../img/samurai_header.png") top right no-repeat;
-    background-position: fixed;
-    max-width: 70em;
+    background: #fdf6e3 url("../img/samurai_header.png") bottom right no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    max-width: 100%;
     margin: 0 auto 0 2em;
-    padding: 1em 3em 2em 1em;
+    padding: 1em 6em 2em 1em;
     border: 0;
-    min-height: 480px;
+    min-height: 500px;
 }
 
 #main a

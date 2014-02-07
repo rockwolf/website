@@ -5,4 +5,4 @@
 Lisa is a python application used for storing financial data in a postgresql database.
 ----
 
-link:http://github.com/rockwolf/lisa[Code]
+link:https://github.com/rockwolf/python/tree/master/lisa[Code]

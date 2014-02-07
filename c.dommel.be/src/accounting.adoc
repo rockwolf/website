@@ -9,7 +9,3 @@
 === Software list
 * link:http://www.ledger-cli.org/[legder-cli]
 * link:http://www.gnucash.org/[gnucash]
-
-=== From Quicken to GnuCash
-* link:http://www.jrcarter.com/gnucash/Quicken2gnucash.pdf[Quicken2gnucash.pdf]
-
