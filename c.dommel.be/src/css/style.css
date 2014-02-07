@@ -3,18 +3,18 @@
 /* General */
 body
 {
-	color: #657b83;
+    color: #657b83;
     background: #fdf6e3;
     font-family: "Liberation Sans Mono", "Helvetica", "Arial", "Lucida Grande", "Verdana", "Gill Sans", sans-serif;
-	/*font-size: 80%;*/
-	margin: 0;
-	padding: 0
+    /*font-size: 80%;*/
+    margin: 0;
+    padding: 0
 }
 
 /* Header */
 .header 
 { 
-	color: #657b83;
+    color: #657b83;
     background: #fdf6e3;
     border: 0; 
 }
@@ -32,14 +32,15 @@ body
 .headerSubTitle { font-size: 0.6em; font-weight: normal; margin-left: 1em; }
 
 /* Side */
-#side-bar {
+#side-bar
+{
     background-color: transparent;
-	width: 100%;
-	clear: both;
-	border: 0;
-	margin: 0;
+    width: 100%;
+    clear: both;
+    border: 0;
+    margin: 0;
     padding: 0;
-	border-bottom: 1px dotted #2aa198;
+    border-bottom: 1px dotted #2aa198;
 }
 
 #side-bar ul {
@@ -52,25 +53,27 @@ body
 
 #side-bar li { display: inline; line-height: 1.6em; white-space: nowrap; }
 
-#side-bar ul li a {
-	margin: 0;
-	padding: 0.1em 1ex 0.1em 1ex;
-	background-color: transparent;
-	text-decoration: none;
-	font-size: 1em;
-	border: 0;
+#side-bar ul li a
+{
+    margin: 0;
+    padding: 0.1em 1ex 0.1em 1ex;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 1em;
+    border: 0;
 }
 
 #side-bar ul li a:hover { color: #268bd2; text-decoration: none; }
  
 /* Main Copy */
-#main {
+#main
+{
     background: #fdf6e3 url("img/samurai_header.png") top right no-repeat;
     background-position: fixed;
-	max-width: 70em;
-	margin: 0 auto 0 2em;
-	padding: 1em 3em 2em 1em;
-	border: 0;
+    max-width: 70em;
+    margin: 0 auto 0 2em;
+    padding: 1em 3em 2em 1em;
+    border: 0;
     min-height: 480px;
 }
 
@@ -79,6 +82,7 @@ body
     color: #268bd2;
     text-decoration: none;
 }
+
 #main a:hover { text-decoration: underline; }
 #main h1, #main-copy h2 { color: #666; }
 #main ul { list-style-type: square; }
