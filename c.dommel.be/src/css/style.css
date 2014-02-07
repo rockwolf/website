@@ -87,7 +87,7 @@ body
 /* Main Copy */
 #main
 {
-    background: #fdf6e3 url("img/samurai_header.png") top right no-repeat;
+    background: #fdf6e3 url("../img/samurai_header.png") top right no-repeat;
     background-position: fixed;
     max-width: 70em;
     margin: 0 auto 0 2em;
