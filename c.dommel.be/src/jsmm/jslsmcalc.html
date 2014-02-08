@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<head>
+	<title>jsLSMCalculator.</title>
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+	<meta name="description" content="jsLSMCalculator - Loosing streak management calculator in javascript." />
+	<meta name="keywords" content="jsLSMCalculator - Loosing streak management calculator in javascript." />
+	<meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all" title="stylesheet" />
+    <script type="text/javascript" src="scripts/jslsmcalc.js"></script>
+</head>
+<body>
+
+<div id="header">
+	<h1>jsLSMCalculator</h1>
+	<h2>A javascript loosing streak calculator for trading.</h2>
+	<p id="layoutdims">Loosing streak management
+        </select>
+    </p>
+    <ul><li><a href="index.html">Return()</a></li></ul>
+
+</div>
+<div class="colmask doublepage">
+	<div class="colleft">
+		<div class="col1">
+			<!-- Column 1 start -->
+			<p>Capital:</p>
+			<p>Risk:</p>
+			<p>Consecutive loosing trades:</p>
+			<p>&nbsp;</p>
+			<!-- Column 1 end -->
+		</div>
+		<div class="col2">
+			<!-- Column 2 start -->
+			<p><input type="text" id="capital" value="" /></p>
+			<p><input type="text" id="risk" value="2" /> %</p>
+			<p><input type="text" id="clt" value="10" /></p>
+			<p><input type="button" id="calculate" value="Exec()" onclick="calcResults()" /></p>
+			<!-- Column 2 end -->
+		</div>
+	</div>
+    <div id="Resultfield"></div>
+</div>
+<div id="footer">
+    <p>The HTML in this layout validates as XHTML 1.0 strict.</p>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,313 @@
+/* General styles */
+body 
+{
+    margin:0;
+    padding:0;
+    border:0;			/* This removes the border around the viewport in old versions of IE */
+    width:100%;
+    background-color:#111;
+    color: #0c9;
+    min-width:600px;    	/* Minimum width of layout - remove line if not required */
+                    /* The min-width property does not work in old versions of Internet Explorer */
+}
+h1
+{
+    margin:.8em 0 .2em 0;
+    padding:0;
+    background: #111 url('../img/banner.jpg') repeat-y;
+}
+h2, h3
+{
+    margin:.8em 0 .2em 0;
+    padding-left:3px;
+    padding-right:3px;
+    background: #111 url('../img/banner.jpg') no-repeat right;
+    border-bottom: 2px solid #444;
+    border-right: 2px solid #444;
+}
+.h3flip
+{
+    margin:.8em 0 .2em 0;
+    padding-left:3px;
+    padding-right:3px;
+    background: #111 url('../img/bannerflip.jpg') no-repeat left;
+    border-bottom: 2px solid #444;
+    border-right: 2px solid #444;
+}
+p 
+{
+    margin:.4em 0 .8em 0;
+    padding:0;
+    font-size: 1em;
+}
+/* Header styles */
+#header 
+{
+    clear:both;
+    float:left;
+    width:100%;
+}
+#header 
+{
+    border-bottom:1px dotted #0c9;
+}
+#header h1
+{
+    padding:.4em 15px 0 15px;
+    margin:0;
+    font-size: 2em;
+    background: #111 url('../img/bannertop.jpg') repeat-y right;
+    border:0;
+}
+#header h2
+{
+    padding:.4em 15px 0 15px;
+    margin:0;
+    font-size: 1em;
+    background: #111 url('../img/bannertop.jpg') repeat-y right;
+    border: 0;
+}
+#header ul 
+{
+    clear:left;
+    float:left;
+    width:100%;
+    list-style:none;
+    margin:10px 0 0 0;
+    padding:0;
+    border: 0;
+}
+#header ul li 
+{
+    display:inline;
+    list-style:none;
+    margin:0;
+    padding:0;
+    border: 0;
+}
+#header ul li a, #header ul li a.active, #header ul li a.active:hover, #header ul li a:hover  
+{
+    text-decoration:none;
+    margin:0 0 0 0;
+    padding:1px 10px;
+    color: #fff;
+    background-color: inherit;
+    border: 0;
+}
+
+#header ul li a span 
+{
+    display:block;
+}
+/* 'widths' sub menu */
+#layoutdims 
+{
+    clear:both;
+    background:inherit;
+    border-top:3px solid #0c9;
+    margin:0;
+    padding:6px 15px !important;
+    text-align:right;
+}
+select
+{
+    background-color: inherit;
+    color: #0c9;
+}
+/* column container */
+.colmask 
+{
+    clear:both;
+    float:left;
+    width:100%;			/* width of whole page */
+    overflow:hidden;		/* This chops off any overhanging divs */
+}
+/* common column settings */
+.colright, .colmid, .colleft 
+{
+    float:left;
+    width:100%;
+    position:relative;
+}
+.col1, .col2, .col3 
+{
+    float:left;
+    position:relative;
+    padding:0 0 1em 0;
+    overflow:hidden;
+}
+/* 2 Column (double page) settings */
+.doublepage 
+{
+    background-color: #222;		/* right column background colour */
+    color: inherit;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.doublepage .colleft 
+{
+    right:50%;			/* right column width */
+    background-color: inherit;		/* left column background colour */
+}
+.doublepage .col1 
+{
+    width:46%;			/* left column content width (column width minus left and right padding) */
+    left:52%;			/* right column width plus left column left padding */
+    text-align: right;
+    padding: 3px;
+}
+.doublepage .col2 
+{
+    width:46%;			/* right column content width (column width minus left and right padding) */
+    left:52%;			/* (right column width) plus (left column left and right padding) plus (right column left padding) */
+    padding: 3px;
+}
+input
+{
+    height: 1.2em;
+    width: 100px;
+    background-color: inherit;
+    color: #aaa;
+    border: 1px dotted #0c9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+.doublepage .col1 p
+{
+    height: 2em;
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+}
+.doublepage .col2 p
+{
+    height: 2em;
+    width: 98%;
+    padding: 5px;
+    margin: 0;
+}
+.homepage 
+{
+    background-color:#222;		/* right column background colour */
+    color: inherit;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.homepage .colleft 
+{
+    right:50%;			/* right column width */
+    background-color: inherit;		/* left column background colour */
+}
+.homepage .col1 
+{
+    width:46%;			/* left column content width (column width minus left and right padding) */
+    left:52%;			/* right column width plus left column left padding */
+    text-align: right;
+    padding: 3px;
+}
+.homepage .col2 
+{
+    width:46%;			/* right column content width (column width minus left and right padding) */
+    left:52%;			/* (right column width) plus (left column left and right padding) plus (right column left padding) */
+    padding: 3px;
+}
+.doublepage .col1 p
+{
+    height: 2em;
+    width: 100%;
+    padding: 5px;
+    margin: 0;
+}
+.doublepage .col2 p
+{
+    height: 2em;
+    width: 98%;
+    padding: 5px;
+    margin: 0;
+}
+.col2 p
+{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.col1 ul
+{
+    list-style: none;
+}
+#calculate
+{
+    border: 0;
+    color: #fff;
+    background-color: inherit;
+    font-weight: bold;
+    height: 2em;
+}
+/* Footer styles */
+#footer 
+{
+    clear:both;
+    float:left;
+    width:100%;
+    border-top:1px dotted #0c9;
+}
+#footer p 
+{
+    padding:10px;
+    margin:0;
+}
+/* Resultfield */
+#Resultfield
+{
+    color: white;
+    background-color: #222;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    /*border: 1px dotted white;*/
+}
+#Resultfield h3 
+{
+    background-image: none;
+    background-color: inherit;
+    color: #fff;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px dashed white;
+}
+.strong
+{
+    color: #ff6;
+    background-color: inherit;
+}
+.negative
+{
+    color: #f03;
+    background-color: inherit;
+}
+.positive
+{
+    color: #0f3;
+    background-color: inherit;
+}
+
+a, a:active, a:visited, a:hover
+{
+    background-color: inherit;
+    color: #fff;
+    text-decoration: none;
+}
+.bold
+{
+    font-weight: bold;
+}
+th 
+{
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 1px solid white;
+}

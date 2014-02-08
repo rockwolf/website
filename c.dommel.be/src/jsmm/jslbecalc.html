@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<head>
+	<title>jsLBECalculator.</title>
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+	<meta name="description" content="jsLBECalculator - Risk change influence calculator in javascript." />
+	<meta name="keywords" content="jsLBECalculator - Risk change influence calculator in javascript." />
+	<meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all" title="stylesheet" />
+    <script type="text/javascript" src="scripts/jslbecalc.js"></script>
+</head>
+<body>
+
+<div id="header">
+	<h1>jsLBECalculator</h1>
+	<h2>A javascript loss influence calculator on the required capital to break even.</h2>
+	<p id="layoutdims">Loss influence on capital needed to break even
+    </p>
+    <ul><li><a href="index.html">Return()</a></li></ul>
+
+</div>
+<div class="colmask doublepage">
+	<div class="colleft">
+		<div class="col1">
+			<!-- Column 1 start -->
+			<p>Capital:</p>
+			<p>Risk:</p>
+			<p>&nbsp;</p>
+			<!-- Column 1 end -->
+		</div>
+		<div class="col2">
+			<!-- Column 2 start -->
+			<p><input type="text" id="capital" value="" /></p>
+			<p><input type="text" id="risk" value="2" /></p>
+			<p><input type="button" id="calculate" value="Exec()" onclick="calcResults()" /></p>
+			<!-- Column 2 end -->
+		</div>
+	</div>
+    <div id="Resultfield"></div>
+</div>
+<div id="footer">
+    <p>The HTML in this layout validates as XHTML 1.0 strict.</p>
+</div>
+
+</body>
+</html>
