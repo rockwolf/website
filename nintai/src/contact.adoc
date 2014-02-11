@@ -53,7 +53,7 @@ image:img/contact.jpg["contact", width="400"]
 ++++
 <span>
 <SCRIPT TYPE="text/javascript">
-  email_e=('the' + 'reisanewway@' + 'gm' + 'ail.com')	
+  email_e=('nintai' + 'trading@' + 'gm' + 'ail.com')	
   document.write(
     '<A href="mailto:' + email_e + '">' 
     + email_e + '</a>'
@@ -66,7 +66,17 @@ This e-mailaddress is secured against spambots. JavaScript needs to be activated
 ++++
 
 == Phone
-Mobile: +32 486 606 002
+++++
+<span>
+<SCRIPT TYPE="text/javascript">
+  var_e=('Mobile: +32' + ' 486 ' + '606 ' + '002')	
+  document.write(var_e)
+</SCRIPT>
+<NOSCRIPT>
+This phone number is secured against spambots. JavaScript needs to be activated to see it.
+</NOSCRIPT>
+</span>
+++++
 
 ++++
 </td>
