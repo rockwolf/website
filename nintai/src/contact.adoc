@@ -16,6 +16,9 @@ image:img/location.jpg["location", width="400", link="img/location.jpg"]
 </td>
 <td>
 ++++
+== General information
+_Name_: Nintai bvba +
+_Company ID_: BE 0544.963.222 +
 
 == Headquarters
 Astridlaan 28 +  
