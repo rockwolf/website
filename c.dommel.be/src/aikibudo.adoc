@@ -1,6 +1,8 @@
 = Aikibudo
 == General
 
+Note: for Katori, see link:katori.html[here]
+
 * link:https://github.com/rockwolf/aikibudo/blob/master/terminology.pdf?raw=true[Aikibudo terminology (pdf)] +++ <span class="small" >This always gets the latest development version.</span> +++
 
 * link:https://github.com/rockwolf/aikibudo[Aikibudo terminology (LaTeX sources)] +++ <span class="small" ><a href="https://github.com/rockwolf/aikibudo/commits/master.atom" target="_new" >Follow most recent changes via rss</a></span> +++
@@ -11,46 +13,6 @@
 
 * link:img/kata_tsuki_uchi.jpg[Tsuki uchi no kata]
 * link:img/kata_happo_ken.jpg[Happo ken kata]
-
-= Tenshin Shouden Katori Shintou Ryuu
-== General
-
-* link:img/katana_parts.jpg[Katana parts]
-* link:img/naginata_parts.jpg[Naginata parts]
-* link:img/kamae_boken.png[Kamae boken]
-
-== Kata
-
-* link:http://www.akban.org/wiki/index.php/Portal:Traditional_weapons[Many kata can be found here]
-* link:http://www.youtube.com/watch?v=cOztjCIVblQ[Bo kata (Sugino)] +++ <span class="small"> (youtube link)</span> +++
-
-== Complete program
-=== Ken
-
-1. link:http://youtu.be/NyIL2cP5I2g[itsutsu no tachi]
-2. link:http://youtu.be/n9Rk8KJ-FoE[nanatsu no tachi]
-3. link:http://youtu.be/3I452DBMRjM[hakka no tachi]
-4. link:http://youtu.be/7RoPAPKdEGE[kasumi no tachi]
-
-=== Bo
-
-1. link:http://www.youtube.com/watch?v=ybYnntPiceE&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share[seri ai no bo]
-2. link:http://www.youtube.com/watch?v=E4vPk6Yjr9U&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=1[sune hishigi no bo]
-3. link:http://www.youtube.com/watch?v=eRUWegqWv_Q&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=2[sayu no bo]
-4. link:http://www.youtube.com/watch?v=Xe-_7b65uBU&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=3[kaza hazushi no bo]
-5. link:http://www.youtube.com/watch?v=mbE2rZkwmvs&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=4[tsurube no bo]
-6. link:http://www.youtube.com/watch?v=um0vqFQUH90&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=5[tate nami no bo]
-
-=== Naginata
-
-1. link:http://www.youtube.com/watch?v=3Rk3myELduo&feature=share&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf[itsutsu no naginata]
-2. link:http://www.youtube.com/watch?v=XZwRHtTeXow&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&feature=share&index=1[nanatsu no naginata]
-3. link:http://www.youtube.com/watch?v=Es_EqWuSe8g&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&feature=share&index=2[kasumi no naginata]
-4. link:http://www.youtube.com/watch?v=NjnSTMoJ4UE&feature=share&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&index=3[hakka no naginata]
-
-=== Iai jutsu
-
-* link:http://youtu.be/2Gi3ZoSTt8E[Yoseikan iai jutsu]
 
 = Other useful Japanese expressions
 == Counting in Japanese
