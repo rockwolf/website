@@ -1,6 +1,6 @@
 = Personal website
 
 == News
-* 2014-02-21 &raquo; Aikibudo section was split, katori got its own section.
-* 2014-02-20 &raquo; Aikibudo terminology project compiles again.
-* 2014-01-11 &raquo;  Website operational.
+2014-02-21 &raquo; Aikibudo section was split, katori got its own section. +  
+2014-02-20 &raquo; Aikibudo terminology project compiles again. +  
+2014-01-11 &raquo;  Website operational. +  
