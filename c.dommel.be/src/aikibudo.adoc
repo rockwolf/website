@@ -1,7 +1,7 @@
 = Aikibudo
 == General
 
-Note: for Katori, see link:katori.html[here]
+Note: for Katori, see link:katori.html[here].
 
 * link:https://github.com/rockwolf/aikibudo/blob/master/terminology.pdf?raw=true[Aikibudo terminology (pdf)] +++ <span class="small" >This always gets the latest development version.</span> +++
 
