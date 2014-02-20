@@ -1,7 +1,7 @@
 = Tenshin Shouden Katori Shintou Ryuu
 == General
 
-Note: for Aikibudo, see link:aikibudo.html[here]
+Note: for Aikibudo, see link:aikibudo.html[here].
 
 * link:img/katana_parts.jpg[Katana parts]
 * link:img/naginata_parts.jpg[Naginata parts]
