@@ -3,6 +3,8 @@
 
 Note: for Katori, see link:katori.html[here].
 
+* link:img/pictree.jpg[Pedigree]
+* link:img/relation.jpg[Aikibudo/kobudo relation diagram]
 * link:https://github.com/rockwolf/aikibudo/blob/master/terminology.pdf?raw=true[Aikibudo terminology (pdf)] +++ <span class="small" >This always gets the latest development version.</span> +++
 
 * link:https://github.com/rockwolf/aikibudo[Aikibudo terminology (LaTeX sources)] +++ <span class="small" ><a href="https://github.com/rockwolf/aikibudo/commits/master.atom" target="_new" >Follow most recent changes via rss</a></span> +++
@@ -20,6 +22,7 @@ Note: for Katori, see link:katori.html[here].
 
 * link:img/kata_tsuki_uchi.jpg[Tsuki uchi no kata]
 * link:img/kata_happo_ken.jpg[Happo ken kata]
+* link:img/tanbo_no_kata.jpg[Tanbo no kata]
 
 = Other useful Japanese expressions
 == Counting in Japanese

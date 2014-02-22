@@ -15,27 +15,27 @@ Note: for Aikibudo, see link:aikibudo.html[here].
 == Complete program
 === Ken
 
-1. link:http://youtu.be/NyIL2cP5I2g[itsutsu no tachi]
-2. link:http://youtu.be/n9Rk8KJ-FoE[nanatsu no tachi]
-3. link:http://youtu.be/7RoPAPKdEGE[kasumi no tachi]
-4. link:http://youtu.be/3I452DBMRjM[hakka no tachi]
+1. link:http://youtu.be/NyIL2cP5I2g[itsutsu no tachi] +++ <span class="small"> (youtube link)</span> +++
+2. link:http://youtu.be/n9Rk8KJ-FoE[nanatsu no tachi] +++ <span class="small"> (youtube link)</span> +++
+3. link:http://youtu.be/7RoPAPKdEGE[kasumi no tachi] +++ <span class="small"> (youtube link)</span> +++
+4. link:http://youtu.be/3I452DBMRjM[hakka no tachi] +++ <span class="small"> (youtube link)</span> +++
 
 === Bo
 
-1. link:http://www.youtube.com/watch?v=ybYnntPiceE&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share[seri ai no bo]
-2. link:http://www.youtube.com/watch?v=E4vPk6Yjr9U&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=1[sune hishigi no bo]
-3. link:http://www.youtube.com/watch?v=eRUWegqWv_Q&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=2[sayu no bo]
-4. link:http://www.youtube.com/watch?v=Xe-_7b65uBU&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=3[kaza hazushi no bo]
-5. link:http://www.youtube.com/watch?v=mbE2rZkwmvs&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=4[tsurube no bo]
-6. link:http://www.youtube.com/watch?v=um0vqFQUH90&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=5[tate nami no bo]
+1. link:http://www.youtube.com/watch?v=ybYnntPiceE&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share[seri ai no bo] +++ <span class="small"> (youtube link)</span> +++
+2. link:http://www.youtube.com/watch?v=E4vPk6Yjr9U&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=1[sune hishigi no bo] +++ <span class="small"> (youtube link)</span> +++
+3. link:http://www.youtube.com/watch?v=eRUWegqWv_Q&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=2[sayu no bo] +++ <span class="small"> (youtube link)</span> +++
+4. link:http://www.youtube.com/watch?v=Xe-_7b65uBU&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=3[kaza hazushi no bo] +++ <span class="small"> (youtube link)</span> +++
+5. link:http://www.youtube.com/watch?v=mbE2rZkwmvs&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&feature=share&index=4[tsurube no bo] +++ <span class="small"> (youtube link)</span> +++
+6. link:http://www.youtube.com/watch?v=um0vqFQUH90&feature=share&list=PLjUMbpnLeUKsR2Lx4K1AoTrvJsI1Ae-l5&index=5[tate nami no bo] +++ <span class="small"> (youtube link)</span> +++
 
 === Naginata
 
-1. link:http://www.youtube.com/watch?v=3Rk3myELduo&feature=share&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf[itsutsu no naginata]
-2. link:http://www.youtube.com/watch?v=XZwRHtTeXow&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&feature=share&index=1[nanatsu no naginata]
-3. link:http://www.youtube.com/watch?v=Es_EqWuSe8g&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&feature=share&index=2[kasumi no naginata]
-4. link:http://www.youtube.com/watch?v=NjnSTMoJ4UE&feature=share&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&index=3[hakka no naginata]
+1. link:http://www.youtube.com/watch?v=3Rk3myELduo&feature=share&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf[itsutsu no naginata] +++ <span class="small"> (youtube link)</span> +++
+2. link:http://www.youtube.com/watch?v=XZwRHtTeXow&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&feature=share&index=1[nanatsu no naginata] +++ <span class="small"> (youtube link)</span> +++
+3. link:http://www.youtube.com/watch?v=Es_EqWuSe8g&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&feature=share&index=2[kasumi no naginata] +++ <span class="small"> (youtube link)</span> +++
+4. link:http://www.youtube.com/watch?v=NjnSTMoJ4UE&feature=share&list=PLjUMbpnLeUKsMzwUMcyALaHV4XI_L-Owf&index=3[hakka no naginata] +++ <span class="small"> (youtube link)</span> +++
 
 === Iai jutsu
 
-* link:http://youtu.be/2Gi3ZoSTt8E[Yoseikan iai jutsu]
+* link:http://youtu.be/2Gi3ZoSTt8E[Yoseikan iai jutsu] +++ <span class="small"> (youtube link)</span> +++
