@@ -20,8 +20,9 @@ body {
 
 .headerSubtitle
 {
-    font-size: 1.0em;
+    font-size: 0.6em;
     font-weight: normal;
+    margin-left: 1em;
 }
 
 /* Side */
@@ -174,4 +175,4 @@ pre { margin-left: 2em; }
 .yellow { color:#af8700; }
 .green { color:#5f8700; }
 .blue { color:#0087ff; }
-.gray { color:#fdf6e3; font-size:16pt; }
+.gray { color:#93a1a1; font-size:0.4em; }
