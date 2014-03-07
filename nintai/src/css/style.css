@@ -15,10 +15,14 @@ body {
 .header a { border: 0; color: #002b36; text-decoration: none; }
 .midHeader img { border: 0; }
 
-.headerTitle { font-size: 1.6em; font-weight: bold; margin: 0 0 0 0.5em; padding: 0.5em; }
+.headerTitle { font-size: 2.6em; font-weight: bold; margin: 0 0 0 0.5em; padding: 0.5em; }
 .headerTitle a { border: 0; text-decoration: none; }
 
-.headerSubTitle { font-size: 0.6em; font-weight: normal; margin-left: 1em; }
+.headerSubtitle
+{
+    font-size: 1.0em;
+    font-weight: normal;
+}
 
 /* Side */
 #side-bar {
@@ -166,7 +170,8 @@ pre { margin-left: 2em; }
 	background: #002b36;
 }*/
 
-.red { color:#d70000 }
-.yellow { color:#af8700 }
-.green { color:#5f8700 }
-.blue { color:#0087ff }
+.red { color:#d70000; }
+.yellow { color:#af8700; }
+.green { color:#5f8700; }
+.blue { color:#0087ff; }
+.gray { color:#fdf6e3; font-size:16pt; }

@@ -47,7 +47,8 @@ image:img/e-mail.jpg["contact", width="200", height="133", link="contact.html"]
 ++++
 
 = News
-2014-01-11 &raquo;  Website operational.
+2014-01-11 &raquo;  Website operational. +
+2014-03-06 &raquo;  CFD account activated. +
 
 ++++
 </td>
