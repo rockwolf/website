@@ -19,6 +19,19 @@ image:img/location.jpg["location", width="400", link="img/location.jpg"]
 == General information
 Name: Nintai bvba +
 Company ID: BE 0544.963.222 +
+++++
+<span>
+<SCRIPT TYPE="text/javascript">
+  var_e=('IBA' + 'N: BE6' + '4 6528 342' + '6 49' + '52')	
+  var_f=('<br />BI' + 'C: HBKABE' + '22')	
+  document.write(var_e)
+  document.write(var_f)
+</SCRIPT>
+<NOSCRIPT>
+This bank account number is secured against spambots. JavaScript needs to be activated to see it.
+</NOSCRIPT>
+</span>
+++++
 
 == Headquarters
 Astridlaan 28 +  
