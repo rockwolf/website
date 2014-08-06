@@ -1,6 +1,6 @@
 = Info
 
-.Evolution of dividends in %
+.Evolution of dividend tax in %
 [width="80%",cols=">s,^2m,^2m,^2m,^2m,^2m,^2m,^2m",frame="topbot",options="header"]
 |======================
 |Year |BE |DE | FR |NL |ES |US |UK
