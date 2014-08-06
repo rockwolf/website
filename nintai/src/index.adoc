@@ -47,6 +47,7 @@ image:img/e-mail.jpg["contact", width="200", height="133", link="contact.html"]
 ++++
 
 = News
+2014-08-06 &raquo;  Dividend info table added to the info page. +
 2014-03-23 &raquo;  Logo created and implemented. +
 2014-03-21 &raquo;  Investment account funded. +
 2014-03-19 &raquo;  Start of trading activities. +
