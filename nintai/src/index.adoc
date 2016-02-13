@@ -47,6 +47,9 @@ image:img/e-mail.jpg["contact", width="200", height="133", link="contact.html"]
 ++++
 
 = News
+2016-02-13 &raquo;  New logo has been created and implemented on the website. +
+2016-01-09 &raquo;  2015 results were negative, improvement plans have been put into motion. +
+2015-01-09 &raquo;  2014 results were negative, but in line with expectations. +
 2014-08-06 &raquo;  Dividend info table added to the info page. +
 2014-03-23 &raquo;  Logo created and implemented. +
 2014-03-21 &raquo;  Investment account funded. +
