@@ -1,0 +1,34 @@
+
+++++
+<table>
+<tr>
+<td colspan="3">
+++++
+
+= Documentation
+
+This is the place to find all documentation. +
+There are several forms of documentation: +
+- technical documentation +
+- user documentation +
+- business documentation +
+- external documentation +
+
+== Technical documentation
+
+Documentation about development, application code, infrastructure setup/configuration, etc.
+
+== User documentation
+
+Explanation how to use all the available tools, applications and workflows. This is looked at,
+from a user standpoint and documented in that manner.
+
+== Business documentation
+
+Documentation regarding the organisational structure, business plan, workflows, new ideas, mind maps, management documentation, ...
+
+++++
+</td>
+</tr>
+</table>
+++++
