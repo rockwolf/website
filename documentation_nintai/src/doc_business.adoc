@@ -1,9 +1,0 @@
-= Business documentation
-
-== Mind maps
-
-link:file:///link/to/some/local/path.pdf +
-
-== Workflows
-
-link:file:///link/to/some/local/path.pdf +
