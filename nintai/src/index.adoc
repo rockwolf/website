@@ -41,12 +41,14 @@ image:img/e-mail.jpg["contact", width="200", height="133", link="contact.html"]
 </tr>
 <tr>
 <td colspan="3">
-<span class="small">Info image courtesy of Photokanok / FreeDigitalPhotos.net</span>,
-<span class="small">Reports image courtesy of Kittikun Atsawintarangkul / FreeDigitalPhotos.net</span>,
+<span class="small">Info image courtesy of Photokanok / FreeDigitalPhotos.net,</span>
+<span class="small">Reports image courtesy of Kittikun Atsawintarangkul / FreeDigitalPhotos.net,</span>
 <span class="small">Contact image courtesy of renjith krishnan / FreeDigitalPhotos.net</span>
 ++++
 
-= News
+== News
+2017-04-02 &raquo;  Contact info page updated. +
+2017-01-09 &raquo;  2016 results where positive, the improvement plans have had their desired effect. +
 2016-02-13 &raquo;  New logo has been created and implemented on the website. +
 2016-01-09 &raquo;  2015 results were negative, improvement plans have been put into motion. +
 2015-01-09 &raquo;  2014 results were negative, but in line with expectations. +

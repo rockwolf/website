@@ -34,8 +34,8 @@ This bank account number is secured against spambots. JavaScript needs to be act
 ++++
 
 == Headquarters
-Astridlaan 28 +  
-2580 Putte +  
+Pastoor Mellaertsstraat 41/003 +  
+2220 Heist-op-den-Berg (Heist-Goor)+  
 Belgium +  
 
 ++++
