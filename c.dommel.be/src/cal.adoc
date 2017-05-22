@@ -1,8 +1,0 @@
-= Personal calendar
-
-* link:today.txt[todays reminders]
-* link:extra.txt[extra reminders]
-* link:cal2w.txt[cal 2w]
-* link:cal1m.html[cal 1m]
-* link:cal1y.html[cal 1y]
-* link:cal1m_extra.html[cal 1m extra]

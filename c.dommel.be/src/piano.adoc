@@ -1,0 +1,23 @@
+= Piano
+
+== Intro
+
+I'm learning piano and I'm using this space to document my progress. +
+It's also a place where I can organize all my home-made musical scores. +
+For the creation of the musical scores, I use the following open source applications: +
+* link:http://www.lilypond.org
+* link:http://www.frescobaldi.org/index.html
+
+The first application is for creating the musical scores, the second one is a graphical editor,
+that makes working with the scores easier.
+
+== 2017-05-18
+
+Learnt how to use lilypond, by using there tutorials. The result is link:assets/score_20170518_V001_MyFirstScore.pdf[here]. +
+Don't know how to play it though. It was just created to learn to use lilypond.
+
+== 2017-05-21
+
+Getting ready to learn to play left and right handed. I created a nice score for learning left and right handed playing. +
+You can find it link:assets/score_20170521_V001_PracticeLeftRight.pdf[here]
+

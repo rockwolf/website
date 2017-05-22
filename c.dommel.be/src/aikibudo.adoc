@@ -9,14 +9,15 @@ Note: for Katori, see link:katori.html[here].
 
 * link:https://github.com/rockwolf/aikibudo[Aikibudo terminology (LaTeX sources)] +++ <span class="small" ><a href="https://github.com/rockwolf/aikibudo/commits/master.atom" target="_new" >Follow most recent changes via rss</a></span> +++
 
-* link:kyu.ods[Aikibudo Kyu (ods)] +++ <span class="small" >Last updated 2011-03-04</span></li> +++
+* link:assets/kyu.ods[Aikibudo Kyu (ods)] +++ <span class="small" >Last updated 2011-03-04</span></li> +++
 
 == Official programs
-* link:1dan.pdf[1st dan]
-* link:2dan.pdf[2nd dan]
-* link:3dan.pdf[3rd dan]
-* link:4dan.pdf[4th dan]
-* link:56dan.pdf[5th and 6th dan]
+
+* link:assets/1dan.pdf[1st dan]
+* link:assets/2dan.pdf[2nd dan]
+* link:assets/3dan.pdf[3rd dan]
+* link:assets/4dan.pdf[4th dan]
+* link:assets/56dan.pdf[5th and 6th dan]
 
 == Kata
 
@@ -24,6 +25,9 @@ Note: for Katori, see link:katori.html[here].
 * link:img/kata_happo_ken.jpg[Happo ken kata]
 * link:img/tanbo_no_kata.jpg[Tanbo no kata]
 
-= Other useful Japanese expressions
-== Counting in Japanese
-* link:http://www.tofugu.com/wp-content/uploads/2008/11/japanesecounters.pdf[Counting in Japanese] +++ <span class="small"> (external link from www.tofugu.com)</span> +++
+== Other useful Japanese expressions
+=== Counting in Japanese
+
+* link:http://ww8.tiki.ne.jp/~tmath/language/numbers.htm[Counting in Japanese (simple romaji)] +++ <span class="small"> (external link from learn-japanese.info)</span> +++
+* link:http://learn-japanese.info/Counters.html[Introduction to counters] +++ <span class="small"> (external link from learn-japanese.info)</span> +++
+* link:https://www.tofugu.com/japanese/count-in-japanese/[Counting in Japanese] +++ <span class="small"> (external link from www.tofugu.com)</span> +++
