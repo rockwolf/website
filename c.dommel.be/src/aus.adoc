@@ -1,0 +1,8 @@
+= Info Australia
+
+* link:assets/info_20170916_V004_caravan_sites.odt[caravan_sites_odt]
+* link:assets/info_20170916_V004_caravan_sites.pdf[caravan_sites_pdf]
+* link:assets/QLD_Map1_High.pdf[QLD_rest_areas_map]
+* link:assets/QLD_Rest_Areas.pdf[QLD_rest_areas_brochure]
+
+
