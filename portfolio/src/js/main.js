@@ -93,12 +93,13 @@ $(document).ready(function() {
 
   $('.services-carousel').owlCarousel({
       autoplay: true,
+      autoplayTimeout: 10000,
       loop: true,
       margin: 20,
       dots: true,
       nav: false,
       responsiveClass: true,
-      responsive: { 0: { items: 1 }, 768: { items: 2 }, 900: { items: 4 } }
+      responsive: { 0: { items: 1 }, 768: { items: 2 }, 1500: { items: 3 } }
     });
 
   // ========================================================================= //
