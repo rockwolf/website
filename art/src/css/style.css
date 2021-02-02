@@ -1,0 +1,137 @@
+html {
+  background: #000000;
+}
+
+/* yellow */
+/*.triadic-yellow-minus1 {
+  color: #2a2300;
+}
+
+.triadic-yellow-0 {
+  color: #362e00;
+}
+
+.triadic-yellow-1 {
+  color: #463c03;
+}
+
+.triadic-yellow-2 {
+  color: #736200;
+}
+
+.triadic-yellow-3 {
+  color: #a88f00;
+}*/
+
+/* neon yellow */
+.triadic-yellow-neon-minus2 {
+  color: #4b0367;
+}
+
+.triadic-yellow-neon-minus1 {
+  color: #5f0583;
+}
+
+.triadic-yellow-neon-0 {
+  color: #ffd900;
+}
+
+.triadic-yellow-neon-1 {
+  color: #ffe139;
+}
+
+.triadic-yellow-neon-2 {
+  color: #ffe863;
+}
+
+/* green */
+.triadic-green-minus1 {
+  color: #182700;
+}
+
+.triadic-green-0 {
+  color: #1f3200;
+}
+
+.triadic-green-1 {
+  color: #294102;
+}
+
+.triadic-green-2 {
+  color: #426a00;
+}
+
+.triadic-green-3 {
+  color: #609b00;
+}
+
+/* neon green */
+.triadic-green-neon-minus2 {
+  color: #588f00;
+}
+
+.triadic-green-neon-minus1 {
+  color: #70b600;
+}
+
+.triadic-green-neon-0 {
+  color: #92ec00;
+}
+
+.triadic-green-neon-1 {
+  color: #a7ed35;
+}
+
+.triadic-green-neon-2 {
+  color: #b8f05e;
+}
+
+/* purple */
+.triadic-purple-minus1 {
+  color: #14011c;
+}
+
+.triadic-purple-0 {
+  color: #1a0124;
+}
+
+.triadic-purple-1 {
+  color: #22042e;
+}
+
+.triadic-purple-2 {
+  color: #37014c;
+}
+
+.triadic-purple-3 {
+  color: #510470;
+}
+
+/* neon purple */
+.triadic-purple-neon-minus2 {
+  color: #4b0367;
+}
+
+.triadic-purple-neon-minus1 {
+  color: #5f0583;
+}
+
+.triadic-purple-neon-0 {
+  color: #7c07a9;
+}
+
+.triadic-purple-neon-1 {
+  color: #8a2dae;
+}
+
+.triadic-purple-neon-2 {
+  color: #9f4fbf;
+}
+
+.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items:  center;
+}
