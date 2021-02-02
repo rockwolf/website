@@ -36,6 +36,68 @@ $triadic-yellow-minus1: #2a2300;
 $triadic-yellow-minus1-invert: findColorInvert($triadic-yellow-minus1);
 $triadic-yellow-0: #362e00;
 $triadic-yellow-0-invert: findColorInvert($triadic-yellow-0);
+$triadic-yellow-1: #463c03;
+$triadic-yellow-1-invert: findColorInvert($triadic-yellow-1);
+$triadic-yellow-2: #736200;
+$triadic-yellow-2-invert: findColorInvert($triadic-yellow-2);
+$triadic-yellow-3: #a88f00;
+$triadic-yellow-3-invert: findColorInvert($triadic-yellow-3);
+$triadic-yellow-neon-minus2: #4b0367; 
+$triadic-yellow-neon-minus2-invert: findColorInvert($triadic-yellow-neon-minus2);
+$triadic-yellow-neon-minus1: #5f0583; 
+$triadic-yellow-neon-minus1-invert: findColorInvert($triadic-yellow-neon-minus1);
+$triadic-yellow-neon-0: #ffd900;
+$triadic-yellow-neon-0-invert: findColorInvert($triadic-yellow-neon-0);
+$triadic-yellow-neon-1: #ffe139;
+$triadic-yellow-neon-1-invert: findColorInvert($triadic-yellow-neon-1);
+$triadic-yellow-neon-2: #ffe863;
+$triadic-yellow-neon-2-invert: findColorInvert($triadic-yellow-neon-2);
+
+$triadic-green-minus1: #182700; 
+$triadic-green-minus1-invert: findColorInvert($triadic-green-minus1);
+$triadic-green-0: #1f3200;
+$triadic-green-0-invert: findColorInvert($triadic-green-0);
+$triadic-green-1: #294102;
+$triadic-green-1-invert: findColorInvert($triadic-green-1);
+$triadic-green-2: #426a00;
+$triadic-green-2-invert: findColorInvert($triadic-green-2);
+$triadic-green-3: #609b00;
+$triadic-green-3-invert: findColorInvert($triadic-green-3);
+$triadic-green-neon-minus2: #588f00; 
+$triadic-green-neon-minus2-invert: findColorInvert($triadic-green-neon-minus2);
+$triadic-green-neon-minus1: #70b600; 
+$triadic-green-neon-minus1-invert: findColorInvert($triadic-green-neon-minus1);
+$triadic-green-neon-0: #92ec00;
+$triadic-green-neon-0-invert: findColorInvert($triadic-green-neon-0);
+$triadic-green-neon-1: #a7ed35;
+$triadic-green-neon-1-invert: findColorInvert($triadic-green-neon-1);
+$triadic-green-neon-2: #b8f05e;
+$triadic-green-neon-2-invert: findColorInvert($triadic-green-neon-2);
+
+
+
+$triadic-purple-minus1: #14011c; 
+$triadic-purple-minus1-invert: findColorInvert($triadic-purple-minus1);
+$triadic-purple-0: #1a0124;
+$triadic-purple-0-invert: findColorInvert($triadic-purple-0);
+$triadic-purple-1: #22042e;
+$triadic-purple-1-invert: findColorInvert($triadic-purple-1);
+$triadic-purple-2: #37014c;
+$triadic-purple-2-invert: findColorInvert($triadic-purple-2);
+$triadic-purple-3: #510470;
+$triadic-purple-3-invert: findColorInvert($triadic-purple-3);
+$triadic-purple-neon-minus2: #4b0367; 
+$triadic-purple-neon-minus2-invert: findColorInvert($triadic-purple-neon-minus2);
+$triadic-purple-neon-minus1: #5f0583; 
+$triadic-purple-neon-minus1-invert: findColorInvert($triadic-purple-neon-minus1);
+$triadic-purple-neon-0: #7c07a9;
+$triadic-purple-neon-0-invert: findColorInvert($triadic-purple-neon-0);
+$triadic-purple-neon-1: #8a2dae;
+$triadic-purple-neon-1-invert: findColorInvert($triadic-purple-neon-1);
+$triadic-purple-neon-2: #9f4fbf;
+$triadic-purple-neon-2-invert: findColorInvert($triadic-purple-neon-2);
+
+
 
 // 5. Add new color variables to the color map.
 @import "../../node_modules/bulma/sass/utilities/derived-variables";
@@ -44,7 +106,35 @@ $addColors: (
   "linkedin": ($linkedin, $linkedin-invert),
   "github": ($github, $github-invert),
   "triadic-yellow-minus1": ($triadic-yellow-minus1, $triadic-yellow-minus1-invert), 
-  "triadic-yellow-0": ($triadic-yellow-0, $triadic-yellow-0-invert)
+  "triadic-yellow-0": ($triadic-yellow-0, $triadic-yellow-0-invert),
+  "triadic-yellow-1": ($triadic-yellow-1, $triadic-yellow-1-invert),
+  "triadic-yellow-2": ($triadic-yellow-2, $triadic-yellow-2-invert),
+  "triadic-yellow-3": ($triadic-yellow-3, $triadic-yellow-3-invert),
+  "triadic-yellow-neon-minus2": ($triadic-yellow-neon-minus2, $triadic-yellow-neon-minus2-invert), 
+  "triadic-yellow-neon-minus1": ($triadic-yellow-neon-minus1, $triadic-yellow-neon-minus1-invert), 
+  "triadic-yellow-neon-0": ($triadic-yellow-neon-0, $triadic-yellow-neon-0-invert), 
+  "triadic-yellow-neon-1": ($triadic-yellow-neon-1, $triadic-yellow-neon-1-invert), 
+  "triadic-yellow-neon-2": ($triadic-yellow-neon-2, $triadic-yellow-neon-2-invert), 
+  "triadic-green-minus1": ($triadic-green-minus1, $triadic-green-minus1-invert), 
+  "triadic-green-0": ($triadic-green-0, $triadic-green-0-invert),
+  "triadic-green-1": ($triadic-green-1, $triadic-green-1-invert),
+  "triadic-green-2": ($triadic-green-2, $triadic-green-2-invert),
+  "triadic-green-3": ($triadic-green-3, $triadic-green-3-invert),
+  "triadic-green-neon-minus2": ($triadic-green-neon-minus2, $triadic-green-neon-minus2-invert), 
+  "triadic-green-neon-minus1": ($triadic-green-neon-minus1, $triadic-green-neon-minus1-invert), 
+  "triadic-green-neon-0": ($triadic-green-neon-0, $triadic-green-neon-0-invert), 
+  "triadic-green-neon-1": ($triadic-green-neon-1, $triadic-green-neon-1-invert), 
+  "triadic-green-neon-2": ($triadic-green-neon-2, $triadic-green-neon-2-invert), 
+  "triadic-purple-minus1": ($triadic-purple-minus1, $triadic-purple-minus1-invert), 
+  "triadic-purple-0": ($triadic-purple-0, $triadic-purple-0-invert),
+  "triadic-purple-1": ($triadic-purple-1, $triadic-purple-1-invert),
+  "triadic-purple-2": ($triadic-purple-2, $triadic-purple-2-invert),
+  "triadic-purple-3": ($triadic-purple-3, $triadic-purple-3-invert),
+  "triadic-purple-neon-minus2": ($triadic-purple-neon-minus2, $triadic-purple-neon-minus2-invert), 
+  "triadic-purple-neon-minus1": ($triadic-purple-neon-minus1, $triadic-purple-neon-minus1-invert), 
+  "triadic-purple-neon-0": ($triadic-purple-neon-0, $triadic-purple-neon-0-invert), 
+  "triadic-purple-neon-1": ($triadic-purple-neon-1, $triadic-purple-neon-1-invert), 
+  "triadic-purple-neon-2": ($triadic-purple-neon-2, $triadic-purple-neon-2-invert)
 );
 
 
