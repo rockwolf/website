@@ -3,29 +3,15 @@
 // Import a Google Font
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
 
-// 1. Import the initial variables
+// Import the initial variables
 @import "../../node_modules/bulma/sass/utilities/initial-variables";
 @import "../../node_modules/bulma/sass/utilities/functions";
 
-// 2. Set your own initial variables
-// Update blue
-$blue: #72d0eb;
-// Add pink and its invert
-$pink: #ffb3b3;
-$pink-invert: #fff;
+// Set your own initial variables
 // Add a serif family
 $family-serif: "Merriweather", "Georgia", serif;
 
-// 3. Set the derived variables
-// Use the new pink as the primary color
-$primary: $pink;
-$primary-invert: $pink-invert;
-// Use the existing orange as the danger color
-$danger: $orange;
-// Use the new serif family
-$family-primary: $family-serif;
-
-// 4. Setup your Custom Colors
+// Setup your Custom Colors
 $linkedin: #0077b5;
 $linkedin-invert: findColorInvert($linkedin);
 $twitter: #55acee;
@@ -97,9 +83,7 @@ $triadic-purple-neon-1-invert: findColorInvert($triadic-purple-neon-1);
 $triadic-purple-neon-2: #9f4fbf;
 $triadic-purple-neon-2-invert: findColorInvert($triadic-purple-neon-2);
 
-
-
-// 5. Add new color variables to the color map.
+// Add new color variables to the color map.
 @import "../../node_modules/bulma/sass/utilities/derived-variables";
 $addColors: (
   "twitter":($twitter, $twitter-invert),
@@ -140,5 +124,17 @@ $addColors: (
 
 $colors: map-merge($colors, $addColors);
 
-// 6. Import the rest of Bulma
+// Set other pre-existing colors
+$link: $triadic-green-neon-0;
+
+// Navbar variables
+$navbar-item-hover-background-color: transparent;
+$navbar-tab-hover-background-color: transparent;
+$navbar-tab-active-background-color: transparent;
+$navbar-dropdown-background-color: transparent;
+$navbar-dropdown-item-hover-background-color: transparent;
+$navbar-dropdown-item-active-background-color: transparent;
+$navbar-item-color: $triadic-green-neon-0;
+
+// Import the rest of Bulma
 @import "../../node_modules/bulma/bulma";
