@@ -8192,7 +8192,7 @@ button.dropdown-item {
         background-color: #333;
         color: #fff; } }
   .navbar.is-triadic-yellow-minus1 {
-    background-color: #2a2300;
+    background-color: transparent;
     color: #fff; }
     .navbar.is-triadic-yellow-minus1 .navbar-brand > .navbar-item,
     .navbar.is-triadic-yellow-minus1 .navbar-brand .navbar-link {
@@ -8201,7 +8201,7 @@ button.dropdown-item {
     .navbar.is-triadic-yellow-minus1 .navbar-brand .navbar-link:focus,
     .navbar.is-triadic-yellow-minus1 .navbar-brand .navbar-link:hover,
     .navbar.is-triadic-yellow-minus1 .navbar-brand .navbar-link.is-active {
-      background-color: #110e00;
+      background-color: transparent;
       color: #fff; }
     .navbar.is-triadic-yellow-minus1 .navbar-brand .navbar-link::after {
       border-color: #fff; }
@@ -8223,7 +8223,7 @@ button.dropdown-item {
       .navbar.is-triadic-yellow-minus1 .navbar-end .navbar-link:focus,
       .navbar.is-triadic-yellow-minus1 .navbar-end .navbar-link:hover,
       .navbar.is-triadic-yellow-minus1 .navbar-end .navbar-link.is-active {
-        background-color: #110e00;
+        background-color: transparent;
         color: #fff; }
       .navbar.is-triadic-yellow-minus1 .navbar-start .navbar-link::after,
       .navbar.is-triadic-yellow-minus1 .navbar-end .navbar-link::after {
