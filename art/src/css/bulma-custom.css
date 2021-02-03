@@ -7602,7 +7602,7 @@ button.dropdown-item {
   padding: 20px; }
 
 .navbar {
-  background-color: white;
+  background-color: transparent;
   min-height: 3.25rem;
   position: relative;
   z-index: 30; }
