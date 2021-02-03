@@ -125,6 +125,7 @@ $addColors: (
 $colors: map-merge($colors, $addColors);
 
 // Set other pre-existing colors
+$text: $triadic-yellow-1;
 $link: $triadic-yellow-neon-0;
 
 // Navbar variables
