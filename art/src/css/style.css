@@ -709,7 +709,7 @@ html {
     1119px 409px #92ec00,
     1075px 1784px #92ec00,
     1772px 1704px #92ec00;
-     animation: animStar 150s ease-in-out infinite;
+     animation: animStar 150s ease-in-out infinite alternate;
 }   
 #   stars:after {
      content: " ";
@@ -1626,7 +1626,7 @@ html {
     1075px 224px #58ff00,
     1962px 1868px #58ff00,
     500px 212px #58ff00;
-     animation: animStar 100s linear infinite;
+     animation: animStar 100s linear infinite alternate;
 }   
 #   stars2:after {
      content: " ";
@@ -1942,7 +1942,7 @@ html {
     1305px 34px #58ff00,
     509px 1417px #58ff00,
     90px 1318px #58ff00;
-  animation: animStar 150s linear infinite;
+  animation: animStar 150s linear infinite alternate;
 }
 
 #stars3:after {
