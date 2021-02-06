@@ -1,9 +1,40 @@
+/* Html with radial-gradiant bg */
 html {
   height: 100%;
   background: radial-gradient(ellipse at bottom, #14011c 0%, #001100 64%, #000000 100%);
   overflow: hidden;
 }
 
+/* Tooltip */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 320px;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -160px; /* Use half of the width (320/2 = 160), to center the tooltip */
+
+  background-color: transparent;
+  color: #ffe139;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  border: 1px dotted #ffe139;
+}
+
+/* Star animation */
 #stars {
   width: 1px;
   height: 1px;
