@@ -31,7 +31,18 @@ html {
 
 .tooltip:hover .tooltiptext {
   visibility: visible;
-  border: 1px dotted #ffe139;
+  border: 1px dotted #c5ad00;
+}
+
+.tooltip .tooltiptext::after {
+  content: " "; /* Used to create a little arrow */
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: #c5ad00 transparent transparent transparent;
 }
 
 /* Star animation */
