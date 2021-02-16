@@ -126,7 +126,12 @@ $colors: map-merge($colors, $addColors);
 
 // Set other pre-existing colors
 $text: $triadic-yellow-1;
-$link: $triadic-yellow-neon-0;
+$link: $triadic-yellow-3;
+$link-hover: $triadic-yellow-neon-2;
+$link-visited: $triadic-yellow-neon-minus2;
+$link-active: $triadic-yellow-neon-minus2;
+$text-light: $triadic-yellow-minus1;
+$text-strong: $triadic-yellow-1;
 
 // Navbar variables
 $navbar-background-color: transparent;
@@ -137,10 +142,10 @@ $navbar-padding-vertical: 1rem;
 $navbar-padding-horizontal: 2rem;
 $navbar-z: 30;
 $navbar-fixed-z: 30;
-$navbar-item-color: $triadic-yellow-2;
-$navbar-item-hover-color: $triadic-yellow-neon-2;
+$navbar-item-color: $link;
+$navbar-item-hover-color: $link-hover;
 $navbar-item-hover-background-color: transparent;
-$navbar-item-active-color: $triadic-yellow-neon-minus2;
+$navbar-item-active-color: $link-active;
 $navbar-item-active-background-color: transparent;
 $navbar-item-img-max-height: 1.75rem;
 $navbar-burger-color: $navbar-item-color;
