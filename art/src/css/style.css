@@ -1,7 +1,8 @@
 /* Html with radial-gradiant bg */
 html {
   height: 100%;
-  background: linear-gradient(#000000 84%, #1a0124 94%, #22042e 99%, #7c07a9 99.6%, #9f4fbf 99.7%, #7c07a9 99.8%);
+  background: linear-gradient(#000000 80%, #1a0124 99%, #37014c 99.9%);
+, #7c07a9 99.9%
   background-attachment: fixed;
   overflow: hidden;
 }
