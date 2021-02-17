@@ -2,7 +2,6 @@
 html {
   height: 100%;
   background: linear-gradient(#000000 80%, #1a0124 99%, #37014c 99.9%);
-, #7c07a9 99.9%
   background-attachment: fixed;
   overflow: hidden;
 }
